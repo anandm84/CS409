@@ -18,10 +18,10 @@ body {
 .card img {
   width: 150px;
   height: 150px;
-  /* object-fit: cover;
+  object-fit: cover;
   border-radius: 2px;
   display: block;
-  margin: 0 auto 20px auto; */
+  margin: 0 auto 20px auto;
 }
 
 .card h1 {
